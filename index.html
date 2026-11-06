@@ -66,6 +66,8 @@ h1 em{font-style:italic}
 #lbx{top:max(14px,env(safe-area-inset-top,0px));right:14px}
 #lbp{left:12px;top:50%;margin-top:-22px}
 #lbn{right:12px;top:50%;margin-top:-22px}
+#toast{position:fixed;left:50%;bottom:max(20px,env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--btn);color:var(--btnt);padding:12px 18px;font-size:.85rem;max-width:calc(100% - 32px);text-align:center;z-index:60;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.show{opacity:1}
 .up{display:inline-block;margin-top:14px;color:var(--text);text-decoration:none}
 .tag{position:absolute;left:20px;bottom:20px;background:var(--bg);padding:7px 12px;font-size:.55rem;letter-spacing:.25em;text-transform:uppercase;color:var(--muted)}
 .sec{padding:40px 0 80px;border-top:1px solid var(--line)}
@@ -127,6 +129,7 @@ footer a{color:var(--text)}
 <p class="desc" style="margin:0 0 14px">shopcustomgift@gmail.com &nbsp;·&nbsp; <span id="fnum"></span></p>
 <p><a id="fwa" target="_blank" rel="noopener">WhatsApp</a> &nbsp;/&nbsp; <a id="fem" target="_blank" rel="noopener">Email</a> &nbsp;/&nbsp; <a id="fph" target="_blank" rel="noopener"></a></p>
 <a class="up lab" href="#top">Back to top ↑</a></footer>
+<div id="toast" role="status" aria-live="polite"></div>
 <div class="lb" id="lb" hidden role="dialog" aria-label="Photo viewer"><button id="lbx" type="button" aria-label="Close">×</button><button id="lbp" type="button" aria-label="Previous photo">‹</button><img id="lbi" alt=""><button id="lbn" type="button" aria-label="Next photo">›</button><div class="lab" id="lbc"></div></div>
 <script>
 /* ===== EDIT THIS SECTION ===== */
@@ -135,7 +138,7 @@ var EYEBROW="Objects of quiet significance", SIDE="An independent perspective";
 var HEADLINE="Form, <em>in a new light.</em>", SUB="A personal collection. A different point of view.";
 var CAPTION="";
 var HERO_IMG="images/hero.jpg";                   // optional photo (data: address)
-var WHATSAPP="13476797421";   // country code + number, digits only        // country code + number, digits only
+var WHATSAPP_LINK="https://wa.me/message/IKFQ2FOLI2UKI1";   // WhatsApp Business chat link        // country code + number, digits only
 var EMAIL="shopcustomgift@gmail.com";
 var PHONE="+13476797421", PHONE_SHOW="347-679-7421";   // PHONE: with country code for tapping to call
 var ITEMS=[
@@ -212,7 +215,7 @@ $("shop").textContent=SHOP;$("fshop").textContent=SHOP;$("tag").textContent=TAGL
 $("eyebrow").textContent=EYEBROW;$("side").textContent=SIDE;$("h1").innerHTML=HEADLINE;$("sub").textContent=SUB;$("cap").textContent=CAPTION;
 document.title=SHOP+" – Catalog";
 if(HERO_IMG){var im=document.createElement("img");im.src=HERO_IMG;im.alt="";$("art").style.display="none";$("arch").insertBefore(im,$("cap"))}
-$("fwa").href="https://wa.me/"+WHATSAPP;$("fem").href="mailto:"+EMAIL;
+$("fwa").href=WHATSAPP_LINK;$("fem").href="mailto:"+EMAIL;
 $("fnum").textContent=PHONE_SHOW;$("fph").href="tel:"+PHONE;$("fph").textContent="Call "+PHONE_SHOW;$("vph").href="tel:"+PHONE;$("vph").textContent=PHONE_SHOW;
 function cur(){var t=document.documentElement.getAttribute("data-theme");return t||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}
 function lab(){$("tg").textContent=cur()==="dark"?"Light":"Dark"}
@@ -237,12 +240,12 @@ function draw(){
  $("grid").innerHTML=list.map(function(i){
   var st=i.status||"Available",sold=st==="Sold";
   var msg=sold?"Hi, I saw the "+i.name+" (piece no. "+i.id+") on your catalog. Do you have something similar available?":"Hi, I’m interested in the "+i.name+" (piece no. "+i.id+"). Could you share the price and arrange a time for me to see it?";
-  var wa="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent(msg);
+  var wa=WHATSAPP_LINK;
   var em="mailto:"+EMAIL+"?subject="+encodeURIComponent("Inquiry: "+i.name+" ("+i.id+")")+"&body="+encodeURIComponent(msg);
   return '<article class="card'+(sold?" sold":"")+'"><div class="pic"'+(i.img?' data-k="'+ITEMS.indexOf(i)+'" tabindex="0" role="button" aria-label="Enlarge photo of '+esc(i.name).replace(/"/g,"&quot;")+'"':"")+'>'+(i.img?'<img src="'+i.img+'" alt="'+esc(i.name)+'">':gem)+'<span class="badge '+(sold?"sold":st==="On hold"?"hold":"")+'">'+esc(st)+'</span></div>'+
    '<div class="lab" style="margin-top:8px">'+esc(i.cat)+'</div><h3 class="name">'+esc(i.name)+'</h3>'+
    '<p class="desc">'+esc(i.desc)+'</p>'+((i.stones||[]).length?'<div class="lab" style="font-size:.7rem">Stones: '+esc(i.stones.join(" · "))+'</div>':"")+'<div class="lab" style="font-size:.7rem">Piece no. '+esc(i.id||"")+'</div><div class="lab" style="font-size:.7rem">Price on request</div>'+
-   '<div class="btns"><a class="wa" href="'+wa+'" target="_blank" rel="noopener">WhatsApp</a><a class="em" href="'+em+'" target="_blank" rel="noopener">Email</a><a class="em call" href="tel:'+PHONE+'" target="_blank" rel="noopener">Call '+PHONE_SHOW+'</a></div></article>'}).join("");
+   '<div class="btns"><a class="wa" href="'+wa+'" data-msg="'+esc(msg).replace(/"/g,"&quot;")+'" target="_blank" rel="noopener">WhatsApp</a><a class="em" href="'+em+'" target="_blank" rel="noopener">Email</a><a class="em call" href="tel:'+PHONE+'" target="_blank" rel="noopener">Call '+PHONE_SHOW+'</a></div></article>'}).join("");
 }
 $("q").oninput=function(e){q=e.target.value.toLowerCase();draw()};
 var LBK=0,LBP=0;
@@ -253,6 +256,8 @@ function lbShow(){var it=ITEMS[LBK],ph=photos(it);$("lbi").src=ph[LBP];$("lbi").
 function lbOpen(k){LBK=k;LBP=0;lbShow();$("lb").hidden=false;document.body.style.overflow="hidden";$("lbx").focus()}
 function lbClose(){$("lb").hidden=true;$("lbi").removeAttribute("src");document.body.style.overflow=""}
 function lbStep(d){var n=photos(ITEMS[LBK]).length;LBP=(LBP+d+n)%n;lbShow()}
+$("grid").addEventListener("click",function(e){var w=e.target.closest("a.wa[data-msg]");if(w){var m=w.getAttribute("data-msg");try{navigator.clipboard.writeText(m).then(function(){toast("Message copied. Paste it into the WhatsApp chat so we know which piece you mean.")},function(){})}catch(err){}return}});
+var TT;function toast(t){var el=$("toast");el.textContent=t;el.classList.add("show");clearTimeout(TT);TT=setTimeout(function(){el.classList.remove("show")},6000)}
 $("grid").addEventListener("click",function(e){var p=e.target.closest(".pic[data-k]");if(p)lbOpen(+p.getAttribute("data-k"))});
 $("grid").addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){var p=e.target.closest(".pic[data-k]");if(p){e.preventDefault();lbOpen(+p.getAttribute("data-k"))}}});
 $("lb").addEventListener("click",function(e){if(e.target===$("lb"))lbClose()});
