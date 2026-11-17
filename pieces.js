@@ -3238,7 +3238,7 @@ var MORE_ITEMS=[
 ],
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-250.jpg",
-"w": 746,
+"w": 745,
 "h": 1000
 },
 {
@@ -3279,7 +3279,7 @@ var MORE_ITEMS=[
 ],
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-253.jpg",
-"w": 711,
+"w": 712,
 "h": 1000
 },
 {
@@ -3384,7 +3384,7 @@ var MORE_ITEMS=[
 ],
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-261.jpg",
-"w": 677,
+"w": 678,
 "h": 1000
 },
 {
@@ -4946,7 +4946,7 @@ var MORE_ITEMS=[
 ],
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-379.jpg",
-"w": 677,
+"w": 678,
 "h": 1000
 },
 {
