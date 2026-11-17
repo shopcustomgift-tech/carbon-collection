@@ -7245,5 +7245,32 @@ var MORE_ITEMS=[
 "img": "images/pieces/cc-552.jpg",
 "w": 750,
 "h": 1000
+},
+{
+"id": "CC-553",
+"status": "Available",
+"name": "Ruby & Diamond Halo Pendant",
+"cat": "Necklaces",
+"stones": [
+"Ruby",
+"Diamond"
+],
+"desc": "Ruby cluster set in a round diamond halo on a white gold chain.",
+"img": "images/pieces/cc-553.jpg",
+"w": 721,
+"h": 1000
+},
+{
+"id": "CC-554",
+"status": "Available",
+"name": "Diamond Heart Bar Necklace",
+"cat": "Necklaces",
+"stones": [
+"Diamond"
+],
+"desc": "Five diamond hearts with baguette and round diamonds on a white gold chain.",
+"img": "images/pieces/cc-554.jpg",
+"w": 649,
+"h": 1000
 }
 ];
