@@ -96,6 +96,8 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
 .wa{background:var(--btn);color:var(--btnt)}
 .em{color:var(--text)}
 .none{color:var(--muted);padding:30px 0}
+.morebtn{display:block;margin:36px auto 0;background:none;border:1px solid var(--btn);color:var(--text);padding:12px 28px;font-size:.7rem;letter-spacing:.25em;text-transform:uppercase;cursor:pointer}
+#fs{margin-left:10px}
 footer{border-top:1px solid var(--line);margin:0 24px;padding:40px 0;text-align:center}
 footer .brand{font-size:1.6rem;margin-bottom:10px}
 footer a{color:var(--text)}
@@ -117,8 +119,8 @@ footer a{color:var(--text)}
 <div class="wrap"><section class="sec" id="collection">
 <div class="lab">The Collection</div><h2>Pieces to view in person</h2>
 <div class="tools"><label for="q" class="sr">Search the collection</label><input id="q" type="search" placeholder="Search…"><span class="lab" style="margin-right:4px">Type</span><span id="chips" role="group" aria-label="Filter by type"></span></div>
-<div class="tools" style="margin-top:-14px"><span class="lab" style="margin-right:4px">Gemstone</span><select id="ss" aria-label="Filter by gemstone"></select></div>
-<div class="grid" id="grid"></div></section></div>
+<div class="tools" style="margin-top:-14px"><span class="lab" style="margin-right:4px">Gemstone</span><select id="ss" aria-label="Filter by gemstone"></select><span id="fs" role="group" aria-label="Quick gemstone filters"></span></div>
+<div class="grid" id="grid"></div><button type="button" id="more" class="morebtn" hidden>Show more</button></section></div>
 <div class="wrap"><section class="sec" id="visit">
 <div class="lab">Visit</div><h2>How to view in person</h2>
 <div class="steps">
@@ -138,6 +140,7 @@ footer a{color:var(--text)}
 <a class="up lab" href="#top">Back to top ↑</a></footer>
 <div id="toast" role="status" aria-live="polite"></div>
 <div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button id="lbx" type="button" aria-label="Close">×</button><button id="lbp" type="button" aria-label="Previous photo">‹</button><img id="lbi" alt=""><button id="lbn" type="button" aria-label="Next photo">›</button><div class="lab" id="lbc"></div></div>
+<script src="pieces.js"></script>
 <script>
 /* ===== EDIT THIS SECTION ===== */
 var SHOP="Carbon Collection", TAGLINE="Jewelry / a different perspective";
@@ -213,9 +216,10 @@ var STONES={
  "Blue Sapphire & Diamond Bracelets":["Sapphire","Diamond"],
  "Diamond Flower Pendants":["Diamond"]
 };
-ITEMS.forEach(function(i){i.stones=STONES[i.name]||[]});
+ITEMS.forEach(function(i){i.stones=i.stones||STONES[i.name]||[]});
+if(window.MORE_ITEMS)ITEMS=ITEMS.concat(MORE_ITEMS);   /* pieces.js holds the rest of the collection */
 /* ============================= */
-var sel="All",stone="All",q="";
+var sel="All",stone="All",q="",PAGE=36,shown=PAGE;
 var gem='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M9 3l3 6 3-6M12 21 9 9m3 12 3-12"/></svg>';
 function $(i){return document.getElementById(i)}
 function esc(s){var d=document.createElement("div");d.textContent=s;return d.innerHTML}
@@ -233,31 +237,38 @@ $("tg").onclick=function(){var t=cur()==="dark"?"light":"dark";document.document
 function chips(){
  var used=ITEMS.map(function(i){return i.cat});var list=CATEGORIES.filter(function(c){return SHOW_EMPTY||used.indexOf(c)>-1});used.forEach(function(c){if(list.indexOf(c)<0)list.push(c)});var cats=["All"].concat(list);
  var el=$("chips");el.innerHTML="";
- cats.forEach(function(c){var b=document.createElement("button");b.type="button";b.className="chip"+(c===sel?" on":"");b.setAttribute("aria-pressed",c===sel);b.textContent=c;b.style.marginRight="18px";
-  b.onclick=function(){sel=c;chips();draw()};el.appendChild(b)});
+ cats.forEach(function(c){var b=document.createElement("button");b.type="button";b.className="chip"+(c===sel?" on":"");b.setAttribute("aria-pressed",c===sel);var cnt=c==="All"?ITEMS.length:ITEMS.filter(function(i){return i.cat===c}).length;b.textContent=c+" ("+cnt+")";b.style.marginRight="18px";
+  b.onclick=function(){sel=c;shown=PAGE;chips();draw()};el.appendChild(b)});
 }
 function schips(){
  var n={};ITEMS.forEach(function(i){(i.stones||[]).forEach(function(s){n[s]=(n[s]||0)+1})});
  var names=Object.keys(n).sort(function(a,b){return n[b]-n[a]||(a<b?-1:1)});
  var el=$("ss");el.innerHTML="";
- [["All","All gemstones"]].concat(names.map(function(s){return[s,s]})).forEach(function(p){
+ [["All","All gemstones"]].concat(names.map(function(s){return[s,s+" ("+n[s]+")"]})).forEach(function(p){
   var o=document.createElement("option");o.value=p[0];o.textContent=p[1];if(p[0]===stone)o.selected=true;el.appendChild(o)});
- el.onchange=function(){stone=el.value;draw()};
+ el.onchange=function(){stone=el.value;shown=PAGE;fchips();draw()};
+ fchips();
 }
+/* Quick gemstone buttons shown next to the dropdown */
+var FEATURED=["Ruby","Emerald","Sapphire","Pearl"];
+function fchips(){var el=$("fs");el.innerHTML="";FEATURED.forEach(function(s){if(!ITEMS.some(function(i){return i.stones.indexOf(s)>-1}))return;var b=document.createElement("button");b.type="button";var on=stone===s;b.className="chip"+(on?" on":"");b.setAttribute("aria-pressed",on);b.textContent=s==="Ruby"?"Rubies":s==="Emerald"?"Emeralds":s==="Sapphire"?"Sapphires":"Pearls";b.style.marginRight="18px";b.onclick=function(){stone=on?"All":s;$("ss").value=stone;shown=PAGE;fchips();draw()};el.appendChild(b)})}
 function draw(){
  var list=ITEMS.filter(function(i){return(sel==="All"||i.cat===sel)&&(stone==="All"||(i.stones||[]).indexOf(stone)>-1)&&(i.name+" "+(i.id||"")+" "+i.cat+" "+i.desc+" "+(i.stones||[]).join(" ")).toLowerCase().indexOf(q)>-1});
  if(!list.length){var empty=sel!=="All"&&!ITEMS.some(function(i){return i.cat===sel});$("grid").innerHTML='<div class="none">'+(empty?"No "+esc(sel.toLowerCase())+" here yet. Message us and we will let you know when new pieces arrive.":"No pieces match your search.")+'</div>';return}
+ var total=list.length;list=list.slice(0,shown);
  $("grid").innerHTML=list.map(function(i){
   var st=i.status||"Available",sold=st==="Sold";
   var msg=sold?"Hi, I saw the "+i.name+" (piece no. "+i.id+") on your catalog. Do you have something similar available?":"Hi, I’m interested in the "+i.name+" (piece no. "+i.id+"). Could you share the price and arrange a time for me to see it?";
   var wa="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent(msg);
   var em="mailto:"+EMAIL+"?subject="+encodeURIComponent("Inquiry: "+i.name+" ("+i.id+")")+"&body="+encodeURIComponent(msg);
-  return '<article class="card'+(sold?" sold":"")+'"><div class="pic"'+(i.img?' data-k="'+ITEMS.indexOf(i)+'" tabindex="0" role="button" aria-label="Enlarge photo of '+esc(i.name).replace(/"/g,"&quot;")+'"':"")+'>'+(i.img?'<img src="'+i.img+'" alt="'+esc(i.name)+'" width="700" height="933" loading="lazy" decoding="async">':gem)+'<span class="badge '+(sold?"sold":st==="On hold"?"hold":"")+'">'+esc(st)+'</span></div>'+
+  return '<article class="card'+(sold?" sold":"")+'"><div class="pic"'+(i.img?' data-k="'+ITEMS.indexOf(i)+'" tabindex="0" role="button" aria-label="Enlarge photo of '+esc(i.name).replace(/"/g,"&quot;")+'"':"")+'>'+(i.img?'<img src="'+i.img+'" alt="'+esc(i.name)+'" width="'+(i.w||700)+'" height="'+(i.h||933)+'" loading="lazy" decoding="async">':gem)+'<span class="badge '+(sold?"sold":st==="On hold"?"hold":"")+'">'+esc(st)+'</span></div>'+
    '<div class="lab" style="margin-top:8px">'+esc(i.cat)+'</div><h3 class="name">'+esc(i.name)+'</h3>'+
    '<p class="desc">'+esc(i.desc)+'</p>'+((i.stones||[]).length?'<p class="meta"><b>Stones:</b> '+esc(i.stones.join(" · "))+'</p>':"")+'<p class="meta"><b>Piece no.</b> '+esc(i.id||"")+'</p>'+
    '<div class="btns"><a class="wa" href="'+wa+'" target="_blank" rel="noopener">WhatsApp</a><a class="em" href="'+em+'">Email</a><a class="em call" href="tel:'+PHONE+'">Call '+PHONE_SHOW+'</a></div></article>'}).join("");
+ $("more").hidden=total<=shown;$("more").textContent="Show more ("+(total-shown)+" more)";
 }
-$("q").oninput=function(e){q=e.target.value.toLowerCase();draw()};
+$("q").oninput=function(e){q=e.target.value.toLowerCase();shown=PAGE;draw()};
+$("more").onclick=function(){shown+=PAGE;draw()};
 var LBK=0,LBP=0;
 function photos(i){return i.imgs&&i.imgs.length?i.imgs:(i.img?[i.img]:[])}
 function lbShow(){var it=ITEMS[LBK],ph=photos(it);$("lbi").src=ph[LBP];$("lbi").alt=it.name;
@@ -274,6 +285,7 @@ $("lb").addEventListener("click",function(e){if(e.target===$("lb"))lbClose()});
 $("lbx").onclick=lbClose;$("lbp").onclick=function(){lbStep(-1)};$("lbn").onclick=function(){lbStep(1)};
 document.addEventListener("keydown",function(e){if($("lb").hidden)return;if(e.key==="Escape")lbClose();if(e.key==="ArrowLeft")lbStep(-1);if(e.key==="ArrowRight")lbStep(1);
  if(e.key==="Tab"){var f=[].filter.call($("lb").querySelectorAll("button"),function(b){return b.style.display!=="none"});var a=f.indexOf(document.activeElement);e.preventDefault();f[(a+(e.shiftKey?-1:1)+f.length)%f.length].focus()}});
+(function(){var h=decodeURIComponent(location.hash.slice(1)).toLowerCase();var m={rubies:"Ruby",ruby:"Ruby",emeralds:"Emerald",sapphires:"Sapphire",pearls:"Pearl"};if(m[h])stone=m[h];CATEGORIES.forEach(function(c){if(c.toLowerCase()===h)sel=c})})();
 chips();schips();draw();
 </script>
 </body>
