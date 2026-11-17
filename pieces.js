@@ -52,42 +52,6 @@ var MORE_ITEMS=[
 ]
 },
 {
-"id": "CC-010",
-"status": "Available",
-"name": "Diamond Necklaces",
-"cat": "Necklaces",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-010.jpg",
-"w": 750,
-"h": 1000,
-"metal": [
-"Yellow Gold"
-],
-"style": "Chains & Tennis"
-},
-{
-"id": "CC-011",
-"status": "Available",
-"name": "Gemstone & Diamond Bangles",
-"cat": "Bangles",
-"stones": [
-"Turquoise",
-"Sapphire",
-"Emerald",
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-011.jpg",
-"w": 750,
-"h": 1000,
-"metal": [
-"Yellow Gold"
-]
-},
-{
 "id": "CC-012",
 "status": "Available",
 "name": "Diamond Bangles",
@@ -286,73 +250,6 @@ var MORE_ITEMS=[
 "Yellow Gold"
 ],
 "style": "Studs"
-},
-{
-"id": "CC-024",
-"status": "Available",
-"name": "Diamond Necklaces",
-"cat": "Necklaces",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-024.jpg",
-"w": 750,
-"h": 1000,
-"metal": [
-"Yellow Gold"
-],
-"style": "Pendants"
-},
-{
-"id": "CC-025",
-"status": "Available",
-"name": "Diamond Bangles",
-"cat": "Bangles",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-025.jpg",
-"w": 750,
-"h": 1000,
-"metal": [
-"Yellow Gold"
-]
-},
-{
-"id": "CC-026",
-"status": "Available",
-"name": "Sapphire & Diamond Bracelets",
-"cat": "Bracelets",
-"stones": [
-"Sapphire",
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-026.jpg",
-"w": 750,
-"h": 1000,
-"metal": [
-"White Gold"
-]
-},
-{
-"id": "CC-027",
-"status": "Available",
-"name": "Diamond Earrings",
-"cat": "Earrings",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-027.jpg",
-"w": 750,
-"h": 1000,
-"metal": [
-"White Gold"
-],
-"style": "Hanging"
 },
 {
 "id": "CC-028",
