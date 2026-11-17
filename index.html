@@ -119,6 +119,8 @@ footer a{color:var(--text)}
 <div class="wrap"><section class="sec" id="collection">
 <div class="lab">The Collection</div><h2>Pieces to view in person</h2>
 <div class="tools"><label for="q" class="sr">Search the collection</label><input id="q" type="search" placeholder="Search…"><span class="lab" style="margin-right:4px">Type</span><span id="chips" role="group" aria-label="Filter by type"></span></div>
+<div class="tools" id="styrow" style="margin-top:-14px" hidden><span class="lab" style="margin-right:4px">Style</span><span id="sty" role="group" aria-label="Filter by style"></span></div>
+<div class="tools" style="margin-top:-14px"><span class="lab" style="margin-right:4px">Metal</span><span id="met" role="group" aria-label="Filter by metal"></span></div>
 <div class="tools" style="margin-top:-14px"><span class="lab" style="margin-right:4px">Gemstone</span><select id="ss" aria-label="Filter by gemstone"></select><span id="fs" role="group" aria-label="Quick gemstone filters"></span></div>
 <div class="grid" id="grid"></div><button type="button" id="more" class="morebtn" hidden>Show more</button></section></div>
 <div class="wrap"><section class="sec" id="visit">
@@ -155,6 +157,7 @@ var CITIES=["Brooklyn, NY","Lakewood, NJ"];   // where appointments take place
 var ITEMS=[
 {
 "id": "CC-001",
+"metal":["Yellow Gold"],
 "status": "Available",
 "name": "Gemstone Gold Bangles",
 "cat": "Bangles",
@@ -163,6 +166,7 @@ var ITEMS=[
 },
 {
 "id": "CC-002",
+"metal":["Yellow Gold","White Gold"],"style":"Hanging",
 "status": "Available",
 "name": "Diamond Line Drop Earrings",
 "cat": "Earrings",
@@ -171,6 +175,7 @@ var ITEMS=[
 },
 {
 "id": "CC-003",
+"metal":["Yellow Gold"],
 "status": "Available",
 "name": "Diamond Bar Bangles",
 "cat": "Bangles",
@@ -179,6 +184,7 @@ var ITEMS=[
 },
 {
 "id": "CC-004",
+"metal":["Yellow Gold"],"style":"Chains & Tennis",
 "status": "Available",
 "name": "Heart Cluster Necklace",
 "cat": "Necklaces",
@@ -187,6 +193,7 @@ var ITEMS=[
 },
 {
 "id": "CC-005",
+"metal":["White Gold"],
 "status": "Available",
 "name": "Blue Sapphire & Diamond Bracelets",
 "cat": "Bracelets",
@@ -195,6 +202,7 @@ var ITEMS=[
 },
 {
 "id": "CC-006",
+"metal":["Yellow Gold"],"style":"Pendants",
 "status": "Available",
 "name": "Diamond Flower Pendants",
 "cat": "Necklaces",
@@ -219,7 +227,7 @@ var STONES={
 ITEMS.forEach(function(i){i.stones=i.stones||STONES[i.name]||[]});
 if(window.MORE_ITEMS)ITEMS=ITEMS.concat(MORE_ITEMS);   /* pieces.js holds the rest of the collection */
 /* ============================= */
-var sel="All",stone="All",q="",PAGE=36,shown=PAGE;
+var sel="All",stone="All",metal="All",style="All",q="",PAGE=36,shown=PAGE;
 var gem='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M9 3l3 6 3-6M12 21 9 9m3 12 3-12"/></svg>';
 function $(i){return document.getElementById(i)}
 function esc(s){var d=document.createElement("div");d.textContent=s;return d.innerHTML}
@@ -238,8 +246,14 @@ function chips(){
  var used=ITEMS.map(function(i){return i.cat});var list=CATEGORIES.filter(function(c){return SHOW_EMPTY||used.indexOf(c)>-1});used.forEach(function(c){if(list.indexOf(c)<0)list.push(c)});var cats=["All"].concat(list);
  var el=$("chips");el.innerHTML="";
  cats.forEach(function(c){var b=document.createElement("button");b.type="button";b.className="chip"+(c===sel?" on":"");b.setAttribute("aria-pressed",c===sel);var cnt=c==="All"?ITEMS.length:ITEMS.filter(function(i){return i.cat===c}).length;b.textContent=c+" ("+cnt+")";b.style.marginRight="18px";
-  b.onclick=function(){sel=c;shown=PAGE;chips();draw()};el.appendChild(b)});
+  b.onclick=function(){sel=c;style="All";shown=PAGE;chips();draw()};el.appendChild(b)});
+ styles();metals();
 }
+function chipRow(id,opts,cur,set){var el=$(id);el.innerHTML="";opts.forEach(function(o){var b=document.createElement("button");b.type="button";var on=cur===o[0];b.className="chip"+(on?" on":"");b.setAttribute("aria-pressed",on);b.textContent=o[1];b.style.marginRight="18px";b.onclick=function(){set(o[0]);shown=PAGE;chips();draw()};el.appendChild(b)})}
+/* Style buttons appear for categories that have styles (Earrings: Studs, Hanging, Hoops; Necklaces: Pendants, Chains & Tennis) */
+function styles(){var n={};ITEMS.forEach(function(i){if(i.cat===sel&&i.style)n[i.style]=(n[i.style]||0)+1});var k=Object.keys(n);$("styrow").hidden=!k.length;
+ chipRow("sty",[["All","All "+sel.toLowerCase()]].concat(k.sort(function(a,b){return n[b]-n[a]}).map(function(s){return[s,s+" ("+n[s]+")"]})),style,function(v){style=v})}
+function metals(){chipRow("met",[["All","All"],["Yellow Gold","Yellow gold"],["White Gold","White gold"]],metal,function(v){metal=v})}
 function schips(){
  var n={};ITEMS.forEach(function(i){(i.stones||[]).forEach(function(s){n[s]=(n[s]||0)+1})});
  var names=Object.keys(n).sort(function(a,b){return n[b]-n[a]||(a<b?-1:1)});
@@ -253,7 +267,7 @@ function schips(){
 var FEATURED=["Ruby","Emerald","Sapphire","Pearl"];
 function fchips(){var el=$("fs");el.innerHTML="";FEATURED.forEach(function(s){if(!ITEMS.some(function(i){return i.stones.indexOf(s)>-1}))return;var b=document.createElement("button");b.type="button";var on=stone===s;b.className="chip"+(on?" on":"");b.setAttribute("aria-pressed",on);b.textContent=s==="Ruby"?"Rubies":s==="Emerald"?"Emeralds":s==="Sapphire"?"Sapphires":"Pearls";b.style.marginRight="18px";b.onclick=function(){stone=on?"All":s;$("ss").value=stone;shown=PAGE;fchips();draw()};el.appendChild(b)})}
 function draw(){
- var list=ITEMS.filter(function(i){return(sel==="All"||i.cat===sel)&&(stone==="All"||(i.stones||[]).indexOf(stone)>-1)&&(i.name+" "+(i.id||"")+" "+i.cat+" "+i.desc+" "+(i.stones||[]).join(" ")).toLowerCase().indexOf(q)>-1});
+ var list=ITEMS.filter(function(i){return(sel==="All"||i.cat===sel)&&(style==="All"||i.style===style)&&(metal==="All"||(i.metal||[]).indexOf(metal)>-1)&&(stone==="All"||(i.stones||[]).indexOf(stone)>-1)&&(i.name+" "+(i.id||"")+" "+i.cat+" "+(i.style||"")+" "+(i.metal||[]).join(" ")+" "+i.desc+" "+(i.stones||[]).join(" ")).toLowerCase().indexOf(q)>-1});
  if(!list.length){var empty=sel!=="All"&&!ITEMS.some(function(i){return i.cat===sel});$("grid").innerHTML='<div class="none">'+(empty?"No "+esc(sel.toLowerCase())+" here yet. Message us and we will let you know when new pieces arrive.":"No pieces match your search.")+'</div>';return}
  var total=list.length;list=list.slice(0,shown);
  $("grid").innerHTML=list.map(function(i){
@@ -262,8 +276,8 @@ function draw(){
   var wa="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent(msg);
   var em="mailto:"+EMAIL+"?subject="+encodeURIComponent("Inquiry: "+i.name+" ("+i.id+")")+"&body="+encodeURIComponent(msg);
   return '<article class="card'+(sold?" sold":"")+'"><div class="pic"'+(i.img?' data-k="'+ITEMS.indexOf(i)+'" tabindex="0" role="button" aria-label="Enlarge photo of '+esc(i.name).replace(/"/g,"&quot;")+'"':"")+'>'+(i.img?'<img src="'+i.img+'" alt="'+esc(i.name)+'" width="'+(i.w||700)+'" height="'+(i.h||933)+'" loading="lazy" decoding="async">':gem)+'<span class="badge '+(sold?"sold":st==="On hold"?"hold":"")+'">'+esc(st)+'</span></div>'+
-   '<div class="lab" style="margin-top:8px">'+esc(i.cat)+'</div><h3 class="name">'+esc(i.name)+'</h3>'+
-   '<p class="desc">'+esc(i.desc)+'</p>'+((i.stones||[]).length?'<p class="meta"><b>Stones:</b> '+esc(i.stones.join(" · "))+'</p>':"")+'<p class="meta"><b>Piece no.</b> '+esc(i.id||"")+'</p>'+
+   '<div class="lab" style="margin-top:8px">'+esc(i.cat+(i.style?" · "+i.style:""))+'</div><h3 class="name">'+esc(i.name)+'</h3>'+
+   '<p class="desc">'+esc(i.desc)+'</p>'+((i.stones||[]).length?'<p class="meta"><b>Stones:</b> '+esc(i.stones.join(" · "))+'</p>':"")+((i.metal||[]).length?'<p class="meta"><b>Metal:</b> '+esc(i.metal.join(" & "))+'</p>':"")+'<p class="meta"><b>Piece no.</b> '+esc(i.id||"")+'</p>'+
    '<div class="btns"><a class="wa" href="'+wa+'" target="_blank" rel="noopener">WhatsApp</a><a class="em" href="'+em+'">Email</a><a class="em call" href="tel:'+PHONE+'">Call '+PHONE_SHOW+'</a></div></article>'}).join("");
  $("more").hidden=total<=shown;$("more").textContent="Show more ("+(total-shown)+" more)";
 }
@@ -285,7 +299,7 @@ $("lb").addEventListener("click",function(e){if(e.target===$("lb"))lbClose()});
 $("lbx").onclick=lbClose;$("lbp").onclick=function(){lbStep(-1)};$("lbn").onclick=function(){lbStep(1)};
 document.addEventListener("keydown",function(e){if($("lb").hidden)return;if(e.key==="Escape")lbClose();if(e.key==="ArrowLeft")lbStep(-1);if(e.key==="ArrowRight")lbStep(1);
  if(e.key==="Tab"){var f=[].filter.call($("lb").querySelectorAll("button"),function(b){return b.style.display!=="none"});var a=f.indexOf(document.activeElement);e.preventDefault();f[(a+(e.shiftKey?-1:1)+f.length)%f.length].focus()}});
-(function(){var h=decodeURIComponent(location.hash.slice(1)).toLowerCase();var m={rubies:"Ruby",ruby:"Ruby",emeralds:"Emerald",sapphires:"Sapphire",pearls:"Pearl"};if(m[h])stone=m[h];CATEGORIES.forEach(function(c){if(c.toLowerCase()===h)sel=c})})();
+(function(){var h=decodeURIComponent(location.hash.slice(1)).toLowerCase();var m={rubies:"Ruby",ruby:"Ruby",emeralds:"Emerald",sapphires:"Sapphire",pearls:"Pearl"};if(m[h])stone=m[h];CATEGORIES.forEach(function(c){if(c.toLowerCase()===h)sel=c});var st={studs:["Earrings","Studs"],hanging:["Earrings","Hanging"],hoops:["Earrings","Hoops"],pendants:["Necklaces","Pendants"]};if(st[h]){sel=st[h][0];style=st[h][1]}if(h==="yellow-gold")metal="Yellow Gold";if(h==="white-gold")metal="White Gold"})();
 chips();schips();draw();
 </script>
 </body>

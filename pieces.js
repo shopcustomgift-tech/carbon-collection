@@ -11,7 +11,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-007.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-008",
@@ -25,7 +29,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-008.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-009",
@@ -38,7 +46,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-009.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-010",
@@ -51,7 +62,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-010.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-011",
@@ -67,7 +82,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-011.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-012",
@@ -80,7 +98,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-012.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-013",
@@ -93,7 +114,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-013.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-014",
@@ -106,7 +131,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-014.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-015",
@@ -119,7 +147,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-015.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-016",
@@ -133,7 +164,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-016.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-017",
@@ -147,7 +181,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-017.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-018",
@@ -161,7 +198,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-018.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-019",
@@ -174,7 +214,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-019.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-020",
@@ -187,7 +230,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-020.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-021",
@@ -200,7 +247,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-021.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-022",
@@ -213,7 +264,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-022.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-023",
@@ -226,7 +281,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-023.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-024",
@@ -239,7 +298,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-024.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-025",
@@ -252,7 +315,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-025.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-026",
@@ -266,7 +332,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-026.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-027",
@@ -279,7 +348,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-027.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-028",
@@ -293,7 +366,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-028.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-029",
@@ -306,7 +383,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-029.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-030",
@@ -319,7 +400,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-030.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-031",
@@ -332,7 +417,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-031.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-032",
@@ -345,7 +434,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-032.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-033",
@@ -359,7 +451,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-033.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-034",
@@ -372,7 +467,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-034.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-035",
@@ -385,7 +484,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-035.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-036",
@@ -398,7 +501,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-036.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-037",
@@ -411,7 +518,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-037.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-038",
@@ -424,7 +535,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-038.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-039",
@@ -437,7 +551,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-039.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-040",
@@ -450,7 +567,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-040.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-041",
@@ -463,7 +584,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-041.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-042",
@@ -476,7 +601,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-042.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-043",
@@ -490,7 +619,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-043.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-044",
@@ -503,7 +635,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-044.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-045",
@@ -516,7 +651,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-045.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-046",
@@ -529,7 +668,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-046.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-047",
@@ -542,7 +685,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-047.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-048",
@@ -555,7 +702,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-048.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-049",
@@ -568,7 +718,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-049.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-050",
@@ -581,7 +734,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-050.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-051",
@@ -595,7 +752,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-051.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-052",
@@ -608,7 +769,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-052.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-053",
@@ -621,7 +786,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-053.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-054",
@@ -634,7 +802,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-054.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-055",
@@ -647,7 +818,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-055.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-056",
@@ -660,7 +835,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-056.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-057",
@@ -673,7 +852,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-057.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-058",
@@ -687,7 +870,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-058.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-059",
@@ -700,7 +887,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-059.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-060",
@@ -714,7 +905,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-060.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-061",
@@ -727,7 +921,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-061.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-062",
@@ -740,7 +938,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-062.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-063",
@@ -753,7 +954,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-063.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-064",
@@ -767,7 +971,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-064.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-065",
@@ -780,7 +988,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-065.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-066",
@@ -793,7 +1005,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-066.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-067",
@@ -806,7 +1022,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-067.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-068",
@@ -819,7 +1039,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-068.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-069",
@@ -832,7 +1056,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-069.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-070",
@@ -846,7 +1074,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-070.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-071",
@@ -859,7 +1091,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-071.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-072",
@@ -873,7 +1108,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-072.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-073",
@@ -886,7 +1124,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-073.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-074",
@@ -899,7 +1140,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-074.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-075",
@@ -912,7 +1157,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-075.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-076",
@@ -926,7 +1175,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-076.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-077",
@@ -939,7 +1192,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-077.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-078",
@@ -952,7 +1209,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-078.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-079",
@@ -966,7 +1227,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-079.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-080",
@@ -979,7 +1243,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-080.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-081",
@@ -992,7 +1260,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-081.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-082",
@@ -1006,7 +1278,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-082.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-083",
@@ -1019,7 +1294,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-083.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-084",
@@ -1033,7 +1311,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-084.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-085",
@@ -1047,7 +1328,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-085.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-086",
@@ -1060,7 +1344,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-086.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-087",
@@ -1073,7 +1361,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-087.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-088",
@@ -1086,7 +1378,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-088.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-089",
@@ -1099,7 +1394,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-089.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-090",
@@ -1114,7 +1413,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-090.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-091",
@@ -1128,7 +1430,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-091.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-092",
@@ -1142,7 +1447,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-092.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-093",
@@ -1155,7 +1464,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-093.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-094",
@@ -1168,7 +1481,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-094.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-095",
@@ -1181,7 +1498,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-095.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-096",
@@ -1196,7 +1517,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-096.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-097",
@@ -1209,7 +1534,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-097.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-098",
@@ -1222,7 +1550,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-098.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-099",
@@ -1236,7 +1567,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-099.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-100",
@@ -1250,7 +1584,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-100.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-101",
@@ -1263,7 +1600,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-101.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-102",
@@ -1276,7 +1617,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-102.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-103",
@@ -1289,7 +1633,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-103.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-104",
@@ -1302,7 +1650,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-104.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-105",
@@ -1315,7 +1667,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-105.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-106",
@@ -1329,7 +1684,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-106.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-107",
@@ -1342,7 +1701,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-107.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-108",
@@ -1355,7 +1718,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-108.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-109",
@@ -1368,7 +1735,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-109.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-110",
@@ -1381,7 +1751,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-110.jpg",
 "w": 617,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-111",
@@ -1395,7 +1769,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-111.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-112",
@@ -1408,7 +1785,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-112.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-113",
@@ -1422,7 +1803,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-113.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-114",
@@ -1435,7 +1820,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-114.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-115",
@@ -1450,7 +1839,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-115.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-116",
@@ -1463,7 +1855,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-116.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-117",
@@ -1476,7 +1872,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-117.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-118",
@@ -1489,7 +1888,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-118.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-119",
@@ -1502,7 +1904,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-119.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-120",
@@ -1515,7 +1921,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-120.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-121",
@@ -1528,7 +1937,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-121.jpg",
 "w": 927,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-122",
@@ -1541,7 +1954,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-122.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-123",
@@ -1555,7 +1972,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-123.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-124",
@@ -1570,7 +1991,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-124.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-125",
@@ -1583,7 +2008,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-125.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-126",
@@ -1597,7 +2026,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-126.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-127",
@@ -1611,7 +2043,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-127.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-128",
@@ -1624,7 +2060,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-128.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-129",
@@ -1637,7 +2077,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-129.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-130",
@@ -1650,7 +2094,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-130.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-131",
@@ -1663,7 +2111,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-131.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-132",
@@ -1676,7 +2128,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-132.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-133",
@@ -1689,7 +2144,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-133.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-134",
@@ -1702,7 +2160,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-134.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-135",
@@ -1715,7 +2176,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-135.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-136",
@@ -1729,7 +2193,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-136.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-137",
@@ -1742,7 +2210,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-137.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-138",
@@ -1756,7 +2227,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-138.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-139",
@@ -1769,7 +2244,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-139.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-140",
@@ -1782,7 +2260,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-140.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-141",
@@ -1796,7 +2278,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-141.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-142",
@@ -1809,7 +2294,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-142.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-143",
@@ -1823,7 +2311,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-143.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-144",
@@ -1836,7 +2327,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-144.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-145",
@@ -1849,7 +2344,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-145.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-146",
@@ -1862,7 +2361,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-146.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-147",
@@ -1875,7 +2377,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-147.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-148",
@@ -1888,7 +2394,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-148.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-149",
@@ -1901,7 +2411,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-149.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-150",
@@ -1914,7 +2428,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-150.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-151",
@@ -1928,7 +2446,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-151.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-152",
@@ -1941,7 +2463,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-152.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-153",
@@ -1954,7 +2479,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-153.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-154",
@@ -1967,7 +2495,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-154.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-155",
@@ -1980,7 +2512,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-155.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-156",
@@ -1993,7 +2529,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-156.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-157",
@@ -2006,7 +2546,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-157.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-158",
@@ -2019,7 +2563,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-158.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-159",
@@ -2032,7 +2580,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-159.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-160",
@@ -2045,7 +2596,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-160.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-161",
@@ -2059,7 +2613,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-161.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-162",
@@ -2072,7 +2629,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-162.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-163",
@@ -2085,7 +2646,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-163.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-164",
@@ -2098,7 +2662,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-164.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-165",
@@ -2112,7 +2679,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-165.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-166",
@@ -2125,7 +2695,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-166.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-167",
@@ -2138,7 +2711,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-167.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-168",
@@ -2151,7 +2727,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-168.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-169",
@@ -2164,7 +2744,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-169.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-170",
@@ -2177,7 +2761,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-170.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-171",
@@ -2191,7 +2779,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-171.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-172",
@@ -2204,7 +2795,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-172.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-173",
@@ -2217,7 +2812,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-173.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-174",
@@ -2230,7 +2828,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-174.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-175",
@@ -2243,7 +2845,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-175.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-176",
@@ -2256,7 +2861,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-176.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-177",
@@ -2269,7 +2877,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-177.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-178",
@@ -2282,7 +2894,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-178.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-179",
@@ -2295,7 +2910,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-179.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-180",
@@ -2308,7 +2927,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-180.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-181",
@@ -2321,7 +2943,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-181.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-182",
@@ -2334,7 +2959,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-182.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-183",
@@ -2348,7 +2977,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-183.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-184",
@@ -2361,7 +2993,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-184.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-185",
@@ -2374,7 +3010,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-185.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-186",
@@ -2387,7 +3027,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-186.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-187",
@@ -2400,7 +3044,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-187.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-188",
@@ -2413,7 +3060,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-188.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-189",
@@ -2426,7 +3076,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-189.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-190",
@@ -2440,7 +3093,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-190.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-191",
@@ -2453,7 +3110,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-191.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-192",
@@ -2467,7 +3127,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-192.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-193",
@@ -2481,7 +3144,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-193.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-194",
@@ -2494,7 +3160,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-194.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-195",
@@ -2508,7 +3178,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-195.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-196",
@@ -2521,7 +3194,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-196.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-197",
@@ -2535,7 +3212,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-197.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-198",
@@ -2548,7 +3228,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-198.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-199",
@@ -2561,7 +3244,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-199.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-200",
@@ -2574,7 +3261,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-200.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-201",
@@ -2588,7 +3278,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-201.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-202",
@@ -2601,7 +3295,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-202.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-203",
@@ -2614,7 +3312,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-203.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-204",
@@ -2627,7 +3329,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-204.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-205",
@@ -2641,7 +3347,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-205.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-206",
@@ -2656,7 +3365,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-206.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-207",
@@ -2669,7 +3382,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-207.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-208",
@@ -2682,7 +3399,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-208.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-209",
@@ -2696,7 +3417,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-209.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-210",
@@ -2710,7 +3434,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-210.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-211",
@@ -2723,7 +3451,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-211.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-212",
@@ -2737,7 +3468,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-212.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-213",
@@ -2750,7 +3485,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-213.jpg",
 "w": 672,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-214",
@@ -2763,7 +3502,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-214.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-215",
@@ -2777,7 +3520,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-215.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-216",
@@ -2790,7 +3537,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-216.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-217",
@@ -2804,7 +3555,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-217.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-218",
@@ -2818,7 +3572,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-218.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-219",
@@ -2832,7 +3590,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-219.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-220",
@@ -2845,7 +3606,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-220.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-221",
@@ -2858,7 +3623,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-221.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-222",
@@ -2871,7 +3640,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-222.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-223",
@@ -2884,7 +3657,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-223.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-224",
@@ -2897,7 +3674,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-224.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-225",
@@ -2910,7 +3691,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-225.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-226",
@@ -2924,7 +3708,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-226.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-227",
@@ -2937,7 +3724,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-227.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-228",
@@ -2951,7 +3741,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-228.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-229",
@@ -2964,7 +3757,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-229.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-230",
@@ -2978,7 +3774,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-230.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-231",
@@ -2991,7 +3791,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-231.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-232",
@@ -3004,7 +3808,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-232.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-233",
@@ -3018,7 +3825,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-233.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-234",
@@ -3031,7 +3842,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-234.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-235",
@@ -3044,7 +3858,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-235.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-236",
@@ -3057,7 +3875,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-236.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-237",
@@ -3070,7 +3892,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-237.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-238",
@@ -3083,7 +3908,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-238.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-239",
@@ -3096,7 +3924,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-239.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-240",
@@ -3109,7 +3940,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-240.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-241",
@@ -3122,7 +3957,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-241.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-242",
@@ -3135,7 +3973,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-242.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-243",
@@ -3148,7 +3990,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-243.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-244",
@@ -3161,7 +4007,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-244.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-245",
@@ -3174,7 +4024,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-245.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-246",
@@ -3187,7 +4040,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-246.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-247",
@@ -3200,7 +4057,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-247.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-248",
@@ -3213,7 +4073,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-248.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-249",
@@ -3226,7 +4090,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-249.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-250",
@@ -3239,7 +4107,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-250.jpg",
 "w": 745,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-251",
@@ -3253,7 +4125,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-251.jpg",
 "w": 823,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-252",
@@ -3266,7 +4142,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-252.jpg",
 "w": 713,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-253",
@@ -3280,7 +4160,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-253.jpg",
 "w": 712,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-254",
@@ -3293,7 +4177,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-254.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-255",
@@ -3306,7 +4194,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-255.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-256",
@@ -3319,7 +4210,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-256.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-257",
@@ -3332,7 +4227,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-257.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-258",
@@ -3346,46 +4245,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-258.jpg",
 "w": 750,
-"h": 1000
-},
-{
-"id": "CC-259",
-"status": "Available",
-"name": "Diamond Bracelets",
-"cat": "Bracelets",
-"stones": [
-"Diamond"
+"h": 1000,
+"metal": [
+"Yellow Gold"
 ],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-259.jpg",
-"w": 460,
-"h": 1000
-},
-{
-"id": "CC-260",
-"status": "Available",
-"name": "Diamond Rings",
-"cat": "Rings",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-260.jpg",
-"w": 460,
-"h": 1000
-},
-{
-"id": "CC-261",
-"status": "Available",
-"name": "Diamond Rings",
-"cat": "Rings",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-261.jpg",
-"w": 678,
-"h": 1000
+"style": "Hanging"
 },
 {
 "id": "CC-262",
@@ -3399,7 +4263,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-262.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-263",
@@ -3413,7 +4280,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-263.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-264",
@@ -3427,7 +4297,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-264.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-265",
@@ -3441,7 +4314,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-265.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-266",
@@ -3454,7 +4331,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-266.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-267",
@@ -3467,7 +4348,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-267.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-268",
@@ -3480,7 +4365,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-268.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-269",
@@ -3493,7 +4382,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-269.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-270",
@@ -3506,7 +4399,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-270.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-271",
@@ -3519,7 +4416,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-271.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-272",
@@ -3532,7 +4433,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-272.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-273",
@@ -3546,7 +4450,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-273.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-274",
@@ -3560,7 +4468,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-274.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-275",
@@ -3573,7 +4485,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-275.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-276",
@@ -3586,7 +4502,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-276.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-277",
@@ -3599,7 +4519,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-277.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-278",
@@ -3612,7 +4536,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-278.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-279",
@@ -3625,7 +4553,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-279.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-280",
@@ -3638,7 +4570,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-280.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-281",
@@ -3651,7 +4587,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-281.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-282",
@@ -3664,7 +4603,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-282.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-283",
@@ -3677,7 +4620,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-283.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-284",
@@ -3690,7 +4637,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-284.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-285",
@@ -3703,7 +4654,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-285.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-286",
@@ -3716,7 +4671,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-286.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-287",
@@ -3729,20 +4688,28 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-287.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-288",
 "status": "Available",
-"name": "Diamond Necklaces",
-"cat": "Necklaces",
+"name": "Diamond Earrings",
+"cat": "Earrings",
 "stones": [
 "Diamond"
 ],
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-288.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-289",
@@ -3755,7 +4722,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-289.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-290",
@@ -3768,7 +4739,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-290.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-291",
@@ -3781,7 +4756,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-291.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-292",
@@ -3794,7 +4773,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-292.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-293",
@@ -3807,7 +4790,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-293.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-294",
@@ -3820,7 +4806,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-294.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-295",
@@ -3833,7 +4822,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-295.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-296",
@@ -3846,7 +4838,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-296.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-297",
@@ -3859,20 +4854,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-297.jpg",
 "w": 750,
-"h": 1000
-},
-{
-"id": "CC-298",
-"status": "Available",
-"name": "Diamond Bracelets",
-"cat": "Bracelets",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-298.jpg",
-"w": 789,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-299",
@@ -3885,7 +4870,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-299.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-300",
@@ -3898,7 +4886,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-300.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-301",
@@ -3911,7 +4902,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-301.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-302",
@@ -3925,7 +4919,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-302.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-303",
@@ -3938,7 +4936,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-303.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-304",
@@ -3951,7 +4953,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-304.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-305",
@@ -3964,7 +4969,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-305.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-306",
@@ -3977,7 +4986,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-306.jpg",
 "w": 710,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-307",
@@ -3990,7 +5002,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-307.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-308",
@@ -4003,7 +5019,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-308.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-309",
@@ -4017,7 +5037,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-309.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-310",
@@ -4031,7 +5055,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-310.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-311",
@@ -4045,7 +5072,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-311.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-312",
@@ -4059,7 +5090,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-312.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-313",
@@ -4072,7 +5106,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-313.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-314",
@@ -4086,7 +5123,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-314.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-315",
@@ -4100,7 +5141,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-315.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-316",
@@ -4114,7 +5159,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-316.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-317",
@@ -4127,7 +5176,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-317.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-318",
@@ -4140,7 +5193,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-318.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-319",
@@ -4153,7 +5210,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-319.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-320",
@@ -4167,7 +5228,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-320.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-321",
@@ -4180,7 +5245,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-321.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-322",
@@ -4193,7 +5262,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-322.jpg",
 "w": 1000,
-"h": 563
+"h": 563,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-323",
@@ -4206,7 +5279,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-323.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-324",
@@ -4219,7 +5296,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-324.jpg",
 "w": 1000,
-"h": 563
+"h": 563,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-325",
@@ -4232,7 +5313,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-325.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-326",
@@ -4245,7 +5330,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-326.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-327",
@@ -4258,7 +5347,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-327.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-328",
@@ -4271,7 +5364,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-328.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-329",
@@ -4284,7 +5381,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-329.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-330",
@@ -4297,7 +5398,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-330.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-331",
@@ -4311,7 +5416,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-331.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-332",
@@ -4324,7 +5432,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-332.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-333",
@@ -4337,7 +5449,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-333.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-334",
@@ -4351,7 +5467,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-334.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-335",
@@ -4364,7 +5483,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-335.jpg",
 "w": 1000,
-"h": 750
+"h": 750,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-336",
@@ -4377,7 +5499,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-336.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-337",
@@ -4391,7 +5516,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-337.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-338",
@@ -4406,7 +5535,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-338.jpg",
 "w": 693,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-339",
@@ -4419,7 +5552,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-339.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-340",
@@ -4432,7 +5569,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-340.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-341",
@@ -4445,7 +5585,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-341.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-342",
@@ -4458,7 +5601,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-342.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-343",
@@ -4471,7 +5617,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-343.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-344",
@@ -4484,7 +5633,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-344.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-345",
@@ -4497,21 +5649,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-345.jpg",
 "w": 1000,
-"h": 974
-},
-{
-"id": "CC-346",
-"status": "Available",
-"name": "Blue Topaz & Diamond Rings",
-"cat": "Rings",
-"stones": [
-"Blue Topaz",
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-346.jpg",
-"w": 963,
-"h": 1000
+"h": 974,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-347",
@@ -4525,7 +5667,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-347.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-348",
@@ -4539,7 +5684,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-348.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-349",
@@ -4553,7 +5701,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-349.jpg",
 "w": 1000,
-"h": 563
+"h": 563,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-350",
@@ -4567,7 +5718,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-350.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-351",
@@ -4581,7 +5735,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-351.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-352",
@@ -4595,7 +5753,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-352.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-353",
@@ -4608,7 +5769,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-353.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-354",
@@ -4622,7 +5786,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-354.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-355",
@@ -4635,7 +5803,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-355.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-356",
@@ -4648,7 +5820,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-356.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-357",
@@ -4661,7 +5836,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-357.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-358",
@@ -4674,7 +5853,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-358.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-359",
@@ -4687,7 +5870,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-359.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-360",
@@ -4700,7 +5887,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-360.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-361",
@@ -4713,7 +5904,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-361.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-362",
@@ -4726,20 +5921,28 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-362.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-363",
 "status": "Available",
-"name": "Diamond Necklaces",
-"cat": "Necklaces",
+"name": "Diamond Earrings",
+"cat": "Earrings",
 "stones": [
 "Diamond"
 ],
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-363.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-364",
@@ -4752,7 +5955,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-364.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-365",
@@ -4765,7 +5972,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-365.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-366",
@@ -4778,7 +5989,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-366.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-367",
@@ -4791,7 +6006,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-367.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-368",
@@ -4804,7 +6023,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-368.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-369",
@@ -4817,7 +6040,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-369.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-370",
@@ -4830,7 +6057,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-370.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-371",
@@ -4843,7 +6074,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-371.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-372",
@@ -4856,7 +6091,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-372.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-373",
@@ -4869,7 +6108,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-373.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-374",
@@ -4882,7 +6124,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-374.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-375",
@@ -4895,7 +6140,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-375.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-376",
@@ -4908,7 +6156,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-376.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-377",
@@ -4921,7 +6173,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-377.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-378",
@@ -4934,20 +6189,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-378.jpg",
 "w": 750,
-"h": 1000
-},
-{
-"id": "CC-379",
-"status": "Available",
-"name": "Diamond Rings",
-"cat": "Rings",
-"stones": [
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-379.jpg",
-"w": 678,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-380",
@@ -4961,7 +6207,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-380.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-381",
@@ -4974,7 +6223,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-381.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-382",
@@ -4987,7 +6239,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-382.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-383",
@@ -5000,7 +6256,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-383.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-384",
@@ -5013,7 +6273,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-384.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-385",
@@ -5026,7 +6290,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-385.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-386",
@@ -5039,7 +6307,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-386.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-387",
@@ -5052,7 +6324,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-387.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-388",
@@ -5066,7 +6342,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-388.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-389",
@@ -5079,7 +6359,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-389.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-390",
@@ -5092,7 +6376,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-390.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-391",
@@ -5106,7 +6394,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-391.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-392",
@@ -5119,7 +6411,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-392.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-393",
@@ -5132,7 +6428,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-393.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-394",
@@ -5145,7 +6445,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-394.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-395",
@@ -5158,7 +6462,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-395.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-396",
@@ -5171,7 +6479,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-396.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-397",
@@ -5184,7 +6496,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-397.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-398",
@@ -5197,7 +6513,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-398.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-399",
@@ -5210,7 +6529,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-399.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-400",
@@ -5223,7 +6546,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-400.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-401",
@@ -5236,7 +6563,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-401.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-402",
@@ -5249,7 +6580,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-402.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-403",
@@ -5262,7 +6597,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-403.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-404",
@@ -5275,7 +6614,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-404.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-405",
@@ -5288,7 +6631,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-405.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-406",
@@ -5301,7 +6648,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-406.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-407",
@@ -5314,7 +6665,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-407.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-408",
@@ -5327,7 +6682,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-408.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-409",
@@ -5340,7 +6699,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-409.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-410",
@@ -5353,7 +6716,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-410.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-411",
@@ -5366,7 +6733,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-411.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-412",
@@ -5379,7 +6750,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-412.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-413",
@@ -5393,7 +6767,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-413.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-414",
@@ -5406,7 +6784,12 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-414.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-415",
@@ -5419,7 +6802,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-415.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-416",
@@ -5433,7 +6820,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-416.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-417",
@@ -5446,7 +6836,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-417.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-418",
@@ -5459,7 +6853,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-418.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-419",
@@ -5472,7 +6869,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-419.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-420",
@@ -5485,7 +6886,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-420.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-421",
@@ -5499,7 +6904,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-421.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-422",
@@ -5512,7 +6920,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-422.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-423",
@@ -5525,7 +6937,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-423.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-424",
@@ -5538,7 +6954,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-424.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-425",
@@ -5552,7 +6972,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-425.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-426",
@@ -5565,7 +6988,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-426.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-427",
@@ -5578,7 +7004,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-427.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-428",
@@ -5592,7 +7021,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-428.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-429",
@@ -5605,7 +7037,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-429.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-430",
@@ -5618,7 +7054,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-430.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-431",
@@ -5631,7 +7070,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-431.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-432",
@@ -5644,7 +7086,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-432.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-433",
@@ -5658,7 +7104,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-433.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-434",
@@ -5671,7 +7120,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-434.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-435",
@@ -5684,7 +7137,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-435.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-436",
@@ -5697,7 +7153,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-436.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-437",
@@ -5710,7 +7170,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-437.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-438",
@@ -5723,7 +7186,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-438.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-439",
@@ -5736,7 +7202,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-439.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-440",
@@ -5752,7 +7222,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-440.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-441",
@@ -5766,7 +7240,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-441.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-442",
@@ -5779,7 +7257,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-442.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-443",
@@ -5792,7 +7274,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-443.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-444",
@@ -5805,7 +7291,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-444.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-445",
@@ -5818,7 +7307,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-445.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-446",
@@ -5831,7 +7323,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-446.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-447",
@@ -5845,7 +7340,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-447.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-448",
@@ -5858,7 +7357,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-448.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-449",
@@ -5871,7 +7373,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-449.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-450",
@@ -5884,7 +7390,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-450.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-451",
@@ -5898,7 +7407,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-451.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-452",
@@ -5911,7 +7423,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-452.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-453",
@@ -5925,7 +7441,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-453.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-454",
@@ -5938,7 +7457,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-454.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-455",
@@ -5951,7 +7474,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-455.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-456",
@@ -5964,7 +7491,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-456.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-457",
@@ -5977,7 +7507,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-457.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-458",
@@ -5990,7 +7523,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-458.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-459",
@@ -6003,7 +7540,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-459.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-460",
@@ -6016,7 +7556,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-460.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-461",
@@ -6030,7 +7573,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-461.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-462",
@@ -6043,7 +7590,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-462.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-463",
@@ -6056,7 +7607,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-463.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-464",
@@ -6070,7 +7624,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-464.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-465",
@@ -6083,7 +7641,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-465.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-466",
@@ -6096,7 +7657,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-466.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-467",
@@ -6109,7 +7674,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-467.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-468",
@@ -6122,7 +7690,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-468.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-469",
@@ -6135,7 +7706,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-469.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-470",
@@ -6148,7 +7723,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-470.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-471",
@@ -6161,7 +7739,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-471.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-472",
@@ -6175,7 +7757,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-472.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-473",
@@ -6188,7 +7774,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-473.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-474",
@@ -6201,7 +7791,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-474.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-475",
@@ -6215,7 +7808,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-475.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-476",
@@ -6228,7 +7825,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-476.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-477",
@@ -6242,7 +7842,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-477.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-478",
@@ -6256,7 +7859,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-478.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-479",
@@ -6269,7 +7875,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-479.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-480",
@@ -6282,7 +7892,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-480.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-481",
@@ -6295,7 +7909,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-481.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-482",
@@ -6308,7 +7925,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-482.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-483",
@@ -6322,7 +7942,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-483.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-484",
@@ -6335,7 +7959,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-484.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-485",
@@ -6349,7 +7976,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-485.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-486",
@@ -6362,7 +7992,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-486.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-487",
@@ -6375,7 +8008,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-487.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-488",
@@ -6389,7 +8026,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-488.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-489",
@@ -6405,7 +8045,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-489.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-490",
@@ -6418,7 +8062,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-490.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-491",
@@ -6432,7 +8079,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-491.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-492",
@@ -6445,7 +8095,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-492.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-493",
@@ -6458,7 +8111,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-493.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-494",
@@ -6471,7 +8128,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-494.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-495",
@@ -6484,7 +8144,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-495.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-496",
@@ -6497,7 +8160,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-496.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-497",
@@ -6510,7 +8177,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-497.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-498",
@@ -6523,7 +8194,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-498.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-499",
@@ -6536,7 +8210,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-499.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-500",
@@ -6549,7 +8227,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-500.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+]
 },
 {
 "id": "CC-501",
@@ -6562,7 +8243,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-501.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-502",
@@ -6575,7 +8260,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-502.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-503",
@@ -6588,7 +8277,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-503.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-504",
@@ -6602,7 +8294,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-504.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-505",
@@ -6615,7 +8311,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-505.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-506",
@@ -6628,7 +8327,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-506.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-507",
@@ -6641,7 +8344,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-507.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-508",
@@ -6655,7 +8361,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-508.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-509",
@@ -6668,7 +8377,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-509.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-510",
@@ -6681,7 +8394,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-510.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-511",
@@ -6694,7 +8411,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-511.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-512",
@@ -6708,7 +8429,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-512.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-513",
@@ -6721,7 +8445,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-513.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-514",
@@ -6734,7 +8462,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-514.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-515",
@@ -6748,7 +8480,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-515.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-516",
@@ -6762,7 +8498,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-516.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-517",
@@ -6775,7 +8515,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-517.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-518",
@@ -6788,7 +8531,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-518.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-519",
@@ -6802,7 +8549,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-519.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hoops"
 },
 {
 "id": "CC-520",
@@ -6815,7 +8566,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-520.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-521",
@@ -6829,7 +8583,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-521.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-522",
@@ -6842,7 +8599,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-522.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-523",
@@ -6856,7 +8616,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-523.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-524",
@@ -6869,7 +8632,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-524.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-525",
@@ -6882,7 +8648,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-525.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-526",
@@ -6895,7 +8665,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-526.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-527",
@@ -6908,7 +8681,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-527.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-528",
@@ -6922,7 +8698,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-528.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-529",
@@ -6935,7 +8714,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-529.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-530",
@@ -6949,7 +8731,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-530.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-531",
@@ -6962,21 +8748,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-531.jpg",
 "w": 750,
-"h": 1000
-},
-{
-"id": "CC-532",
-"status": "Available",
-"name": "Sapphire & Diamond Rings",
-"cat": "Rings",
-"stones": [
-"Sapphire",
-"Diamond"
-],
-"desc": "Message us with the piece number to arrange a viewing.",
-"img": "images/pieces/cc-532.jpg",
-"w": 619,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-533",
@@ -6989,7 +8764,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-533.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-534",
@@ -7002,7 +8781,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-534.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-535",
@@ -7015,7 +8797,12 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-535.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-536",
@@ -7028,7 +8815,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-536.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-537",
@@ -7041,7 +8832,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-537.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-538",
@@ -7055,7 +8850,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-538.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-539",
@@ -7068,7 +8867,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-539.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-540",
@@ -7081,7 +8883,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-540.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
 },
 {
 "id": "CC-541",
@@ -7096,7 +8902,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-541.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-542",
@@ -7110,7 +8920,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-542.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
 },
 {
 "id": "CC-543",
@@ -7123,7 +8937,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-543.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-544",
@@ -7136,7 +8953,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-544.jpg",
 "w": 562,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-545",
@@ -7150,7 +8971,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-545.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-546",
@@ -7163,7 +8987,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-546.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-547",
@@ -7176,7 +9004,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-547.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-548",
@@ -7189,7 +9021,12 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-548.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+],
+"style": "Chains & Tennis"
 },
 {
 "id": "CC-549",
@@ -7203,7 +9040,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-549.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-550",
@@ -7217,7 +9057,11 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-550.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
 },
 {
 "id": "CC-551",
@@ -7231,7 +9075,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-551.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-552",
@@ -7244,7 +9091,10 @@ var MORE_ITEMS=[
 "desc": "Message us with the piece number to arrange a viewing.",
 "img": "images/pieces/cc-552.jpg",
 "w": 750,
-"h": 1000
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
 },
 {
 "id": "CC-553",
@@ -7258,7 +9108,11 @@ var MORE_ITEMS=[
 "desc": "Ruby cluster set in a round diamond halo on a white gold chain.",
 "img": "images/pieces/cc-553.jpg",
 "w": 721,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Pendants"
 },
 {
 "id": "CC-554",
@@ -7271,6 +9125,10 @@ var MORE_ITEMS=[
 "desc": "Five diamond hearts with baguette and round diamonds on a white gold chain.",
 "img": "images/pieces/cc-554.jpg",
 "w": 649,
-"h": 1000
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Chains & Tennis"
 }
 ];
