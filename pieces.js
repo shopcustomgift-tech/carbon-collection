@@ -9296,5 +9296,59 @@ var MORE_ITEMS=[
 "Yellow Gold"
 ],
 "style": "Studs"
+},
+{
+"id": "CC-571",
+"status": "Available",
+"name": "Diamond Heart Bar Necklaces",
+"cat": "Necklaces",
+"stones": [
+"Diamond"
+],
+"desc": "A curved row of baguette and round diamond hearts on a fine yellow gold chain.",
+"img": "images/pieces/cc-571.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
+},
+{
+"id": "CC-572",
+"status": "Available",
+"name": "Baguette Diamond Drop Earrings",
+"cat": "Earrings",
+"stones": [
+"Diamond"
+],
+"desc": "Long drops of linked baguette and round diamond teardrops, in yellow gold or white gold.",
+"img": "images/pieces/cc-572.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+],
+"style": "Hanging"
+},
+{
+"id": "CC-573",
+"status": "Available",
+"name": "Yellow & White Diamond Heart Earrings",
+"cat": "Earrings",
+"stones": [
+"Yellow Diamond",
+"Diamond"
+],
+"desc": "Yellow diamond hearts framed by a white diamond halo, shown in three sizes.",
+"img": "images/pieces/cc-573.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+],
+"style": "Studs"
 }
 ];
