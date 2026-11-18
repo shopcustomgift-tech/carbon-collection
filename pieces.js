@@ -9027,5 +9027,274 @@ var MORE_ITEMS=[
 "White Gold"
 ],
 "style": "Chains & Tennis"
+},
+{
+"id": "CC-555",
+"status": "Available",
+"name": "Diamond Heart Pendant Necklaces",
+"cat": "Necklaces",
+"stones": [
+"Diamond"
+],
+"desc": "Pavé diamond hearts with a diamond halo on fine yellow gold chains, shown in three sizes.",
+"img": "images/pieces/cc-555.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
+},
+{
+"id": "CC-556",
+"status": "Available",
+"name": "Diamond Fringe Drop Earrings",
+"cat": "Earrings",
+"stones": [
+"Diamond"
+],
+"desc": "A row of bezel-set diamonds with fine chains ending in diamond drops. Light and full of movement.",
+"img": "images/pieces/cc-556.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Hanging"
+},
+{
+"id": "CC-557",
+"status": "Available",
+"name": "Pear & Marquise Diamond Rings",
+"cat": "Rings",
+"stones": [
+"Diamond"
+],
+"desc": "Pear and marquise diamond clusters with baguette centres on a textured yellow gold band.",
+"img": "images/pieces/cc-557.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
+},
+{
+"id": "CC-558",
+"status": "Available",
+"name": "Diamond Flower Stud Earrings",
+"cat": "Earrings",
+"stones": [
+"Diamond"
+],
+"desc": "Eight-petal flowers of baguette and round diamonds in white gold, shown in several sizes.",
+"img": "images/pieces/cc-558.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
+},
+{
+"id": "CC-559",
+"status": "Available",
+"name": "Diamond Flower Cluster Earrings",
+"cat": "Earrings",
+"stones": [
+"Diamond"
+],
+"desc": "Layered flower clusters of baguette and round diamonds in yellow gold.",
+"img": "images/pieces/cc-559.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
+},
+{
+"id": "CC-560",
+"status": "Available",
+"name": "Diamond Leaf Cluster Earrings",
+"cat": "Earrings",
+"stones": [
+"Diamond"
+],
+"desc": "Sweeping leaf clusters of baguette and round diamonds in white gold.",
+"img": "images/pieces/cc-560.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"White Gold"
+],
+"style": "Studs"
+},
+{
+"id": "CC-561",
+"status": "Available",
+"name": "Diamond Flower Pendant Necklaces",
+"cat": "Necklaces",
+"stones": [
+"Diamond"
+],
+"desc": "A baguette and round diamond flower on a fine yellow gold chain, shown in two sizes.",
+"img": "images/pieces/cc-561.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
+},
+{
+"id": "CC-562",
+"status": "Available",
+"name": "Diamond Heart Trio Rings",
+"cat": "Rings",
+"stones": [
+"Diamond"
+],
+"desc": "Three bezel-set hearts of baguette and round diamonds on a yellow gold band.",
+"img": "images/pieces/cc-562.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
+},
+{
+"id": "CC-563",
+"status": "Available",
+"name": "Open Teardrop Diamond Pendants",
+"cat": "Necklaces",
+"stones": [
+"Diamond"
+],
+"desc": "A floating pear-shaped diamond cluster inside an open yellow gold teardrop.",
+"img": "images/pieces/cc-563.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
+},
+{
+"id": "CC-564",
+"status": "Available",
+"name": "Open Heart Diamond Pendants",
+"cat": "Necklaces",
+"stones": [
+"Diamond"
+],
+"desc": "A floating baguette diamond centre inside an open yellow gold heart.",
+"img": "images/pieces/cc-564.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Pendants"
+},
+{
+"id": "CC-565",
+"status": "Available",
+"name": "Diamond Cluster Wrap Rings",
+"cat": "Rings",
+"stones": [
+"Diamond"
+],
+"desc": "Round diamonds clustered between two pavé diamond bands that wrap the finger.",
+"img": "images/pieces/cc-565.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
+},
+{
+"id": "CC-566",
+"status": "Available",
+"name": "Diamond Scatter Double-Band Rings",
+"cat": "Rings",
+"stones": [
+"Diamond"
+],
+"desc": "A scatter of prong-set round diamonds beside a slim pavé diamond band.",
+"img": "images/pieces/cc-566.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
+},
+{
+"id": "CC-567",
+"status": "Available",
+"name": "Diamond Crossover Rings",
+"cat": "Rings",
+"stones": [
+"Diamond"
+],
+"desc": "Crossing pavé diamond bands with floating round diamonds and a polished gold accent.",
+"img": "images/pieces/cc-567.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
+},
+{
+"id": "CC-568",
+"status": "Available",
+"name": "Yellow Diamond Leaf Rings",
+"cat": "Rings",
+"stones": [
+"Yellow Diamond",
+"Diamond"
+],
+"desc": "Pear-shaped yellow diamond leaves along a white diamond stem and polished yellow gold band.",
+"img": "images/pieces/cc-568.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold",
+"White Gold"
+]
+},
+{
+"id": "CC-569",
+"status": "Available",
+"name": "Diamond Stack Rings",
+"cat": "Rings",
+"stones": [
+"Diamond"
+],
+"desc": "Layered bands of round diamonds and slim pavé diamond lines, made to look stacked.",
+"img": "images/pieces/cc-569.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+]
+},
+{
+"id": "CC-570",
+"status": "Available",
+"name": "Diamond Starburst Earrings",
+"cat": "Earrings",
+"stones": [
+"Diamond"
+],
+"desc": "Starbursts of round diamonds with pavé rays in 14k yellow gold.",
+"img": "images/pieces/cc-570.jpg",
+"w": 750,
+"h": 1000,
+"metal": [
+"Yellow Gold"
+],
+"style": "Studs"
 }
 ];
