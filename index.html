@@ -353,7 +353,7 @@ function draw(){
  VIS=list.map(function(i){return ITEMS.indexOf(i)});var total=list.length;list=list.slice(0,shown);setCount(total);
  $("grid").innerHTML=list.map(function(i){
   var st=i.status||"Available",sold=st==="Sold",generic=/^Message us with the piece number/.test(i.desc||"");
-  var msg=sold?"Hi, I saw the "+i.name+" (piece no. "+i.id+") on your catalog. Do you have something similar available?":"Hi, I’m interested in the "+i.name+" (piece no. "+i.id+"). Could you share the price and arrange a time for me to see it?";
+  var msg=pieceMsg(i);
   var wa="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent(msg);
   var em="mailto:"+EMAIL+"?subject="+encodeURIComponent("Inquiry: "+i.name+" ("+i.id+")")+"&body="+encodeURIComponent(msg);
   return '<article class="card'+(sold?" sold":"")+'"><div class="pic"'+(i.img?' data-k="'+ITEMS.indexOf(i)+'" tabindex="0" role="button" aria-label="Enlarge photo of '+esc(i.name).replace(/"/g,"&quot;")+'"':"")+'>'+(i.img?'<img src="'+i.img+'" alt="'+esc(i.name)+'" width="'+(i.w||700)+'" height="'+(i.h||933)+'" loading="lazy" decoding="async">':gem)+(st!=="Available"?'<span class="badge '+(sold?"sold":"hold")+'">'+esc(st)+'</span>':"")+'</div>'+
@@ -371,10 +371,15 @@ $("fab").href="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent("Hi, I'd lik
 $("clear").onclick=function(){sel=style=metal=stone="All";q="";$("q").value="";shown=PAGE;chips();schips();draw()};
 
 var LBK=0,LBP=0,VIS=[];
+/* WhatsApp/email message for a piece. The link at the end makes WhatsApp show the piece's photo. */
+var SITE_URL="https://shopcustomgift-tech.github.io/carbon-collection/";
+function pieceMsg(i){var sold=(i.status||"")==="Sold",d=[(i.metal||[]).join(" & "),(i.stones||[]).join(", ")].filter(Boolean).join(" · ");
+ return (sold?"Hi, I saw this piece on your catalog. Do you have something similar available?":"Hi, I’m interested in this piece. Could you share the price and arrange a time for me to see it?")+
+  "\n\n"+i.name+" ("+i.id+")"+(d?"\n"+d:"")+"\n"+SITE_URL+"p/"+String(i.id).toLowerCase()+".html"}
 function photos(i){return i.imgs&&i.imgs.length?i.imgs:(i.img?[i.img]:[])}
 function lbShow(){var it=ITEMS[LBK],ph=photos(it);$("lbi").src=ph[LBP];$("lbi").alt=it.name;
  $("lbc").textContent=it.name+" ("+it.id+")"+(ph.length>1?"  ·  "+(LBP+1)+" / "+ph.length:"");
- $("lba").href="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent("Hi, I’m interested in the "+it.name+" (piece no. "+it.id+"). Could you share the price and arrange a time for me to see it?");
+ $("lba").href="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent(pieceMsg(it));
  $("lbp").style.display=$("lbn").style.display=(ph.length>1||VIS.length>1)?"":"none"}
 var LBF=null;
 function lbOpen(k){LBF=document.activeElement;LBK=k;LBP=0;lbShow();$("lb").hidden=false;document.body.style.overflow="hidden";document.body.classList.add("lbopen");$("lbx").focus()}
@@ -391,9 +396,10 @@ $("lb").addEventListener("click",function(e){if(e.target===$("lb"))lbClose()});
 $("lbx").onclick=lbClose;$("lbp").onclick=function(){lbStep(-1)};$("lbn").onclick=function(){lbStep(1)};
 document.addEventListener("keydown",function(e){if($("lb").hidden)return;if(e.key==="Escape")lbClose();if(e.key==="ArrowLeft")lbStep(-1);if(e.key==="ArrowRight")lbStep(1);
  if(e.key==="Tab"){var f=[].filter.call($("lb").querySelectorAll("button,a"),function(b){return b.style.display!=="none"});var a=f.indexOf(document.activeElement);e.preventDefault();f[(a+(e.shiftKey?-1:1)+f.length)%f.length].focus()}});
-function applyLink(h){h=(h||"").toLowerCase();var m={rubies:"Ruby",ruby:"Ruby",emeralds:"Emerald",sapphires:"Sapphire",pearls:"Pearl"};if(m[h])stone=m[h];CATEGORIES.forEach(function(c){if(c.toLowerCase()===h)sel=c});var st={studs:["Earrings","Studs"],hanging:["Earrings","Hanging"],hoops:["Earrings","Hoops"],pendants:["Necklaces","Pendants"]};if(st[h]){sel=st[h][0];style=st[h][1]}if(h==="yellow-gold")metal="Yellow Gold";if(h==="white-gold")metal="White Gold"}
-applyLink(decodeURIComponent(location.hash.slice(1)));
+function applyLink(h){h=(h||"").toLowerCase();if(/^cc-\d+$/.test(h)){OPEN=h.toUpperCase();return}var m={rubies:"Ruby",ruby:"Ruby",emeralds:"Emerald",sapphires:"Sapphire",pearls:"Pearl"};if(m[h])stone=m[h];CATEGORIES.forEach(function(c){if(c.toLowerCase()===h)sel=c});var st={studs:["Earrings","Studs"],hanging:["Earrings","Hanging"],hoops:["Earrings","Hoops"],pendants:["Necklaces","Pendants"]};if(st[h]){sel=st[h][0];style=st[h][1]}if(h==="yellow-gold")metal="Yellow Gold";if(h==="white-gold")metal="White Gold"}
+var OPEN=null;applyLink(decodeURIComponent(location.hash.slice(1)));
 chips();schips();draw();
+if(OPEN){var k=-1;ITEMS.forEach(function(x,n){if(x.id===OPEN)k=n});if(k>-1){setTimeout(function(){lbOpen(k)},50)}}
 /* Welcome screen: shown once per visit, skipped when a link opens a filtered view */
 (function(){var w=$("welcome"),seen=false;try{seen=sessionStorage.getItem("welcomed")==="1"}catch(e){}
  if(seen||location.hash.length>1||/[?&]nowelcome/.test(location.search))return;
