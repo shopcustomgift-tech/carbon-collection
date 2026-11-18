@@ -80,9 +80,6 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
 .ftop{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
 .ftop input{flex:1 1 260px;border:0;border-bottom:1px solid var(--line);background:none;color:var(--text);padding:8px 2px;font:inherit;font-size:.95rem;outline:none}
 .ftop input:focus{border-color:var(--accent)}
-.view{display:flex;border:1px solid var(--line)}
-.view button{background:none;border:0;color:var(--muted);padding:7px 14px;font-size:.66rem;letter-spacing:.18em;text-transform:uppercase;cursor:pointer}
-.view button[aria-pressed="true"]{background:var(--btn);color:var(--btnt)}
 .frow{display:grid;grid-template-columns:86px 1fr;align-items:center;gap:10px}
 .frow[hidden]{display:none}
 .flab{font-size:.62rem;letter-spacing:.25em;text-transform:uppercase;color:var(--muted)}
@@ -111,12 +108,7 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
 .wa{background:var(--btn);color:var(--btnt)}
 .em{color:var(--text)}
 .none{color:var(--muted);padding:30px 0}
-body.compact .grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
-body.compact .card .lab,body.compact .desc,body.compact .meta,body.compact .btns,body.compact .badge{display:none}
-body.compact .name{font-family:Helvetica,Arial,sans-serif;font-size:.78rem;font-weight:400;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-body.compact .name:before{content:attr(data-id) " · ";color:var(--text)}
-@media(max-width:760px){.frow{grid-template-columns:1fr;gap:6px}.fopts{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;margin-right:-20px;padding-right:20px}.fopts::-webkit-scrollbar{display:none}.fbar{padding:14px 16px}
-body.compact .grid{grid-template-columns:repeat(3,1fr);gap:6px}body.compact .name{font-size:.68rem}body.compact .name:before{content:attr(data-id)}body.compact .name{font-size:0}body.compact .name:before{font-size:.66rem}}
+@media(max-width:760px){.frow{grid-template-columns:1fr;gap:6px}.fopts{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;margin-right:-20px;padding-right:20px}.fopts::-webkit-scrollbar{display:none}.fbar{padding:14px 16px}}
 
 .ftog,.fmore{display:contents}
 .ftog{display:none}
@@ -135,8 +127,7 @@ body.compact .grid{grid-template-columns:repeat(3,1fr);gap:6px}body.compact .nam
  .sec{padding:28px 0 56px}
  .sec h2{font-size:1.9rem;margin:6px 0 16px}
  .ftop input{font-size:16px;flex-basis:100%}
- .view{flex:1}.view button{flex:1;min-height:40px}
- .chip{min-height:40px;padding:8px 14px;font-size:.85rem}
+  .chip{min-height:40px;padding:8px 14px;font-size:.85rem}
  .fbar select{min-height:40px;font-size:16px}
  .ftog{display:flex;justify-content:center;align-items:center;gap:6px;min-height:44px;background:none;border:1px solid var(--line);color:var(--text);font:inherit;font-size:.85rem;cursor:pointer}
  #fnum:not(:empty){background:var(--btn);color:var(--btnt);border-radius:999px;padding:1px 8px;font-size:.72rem}
@@ -200,8 +191,7 @@ footer a{color:var(--text)}
 <div class="wrap"><section class="sec" id="collection">
 <div class="lab">The Collection</div><h2>Pieces to view in person</h2>
 <div class="fbar">
-<div class="ftop"><label for="q" class="sr">Search the collection</label><input id="q" type="search" placeholder="Search pieces, stones, piece no.">
-<div class="view" role="group" aria-label="Photo size"><button type="button" id="vLarge" aria-pressed="true">Large</button><button type="button" id="vCompact" aria-pressed="false">Compact</button></div></div>
+<div class="ftop"><label for="q" class="sr">Search the collection</label><input id="q" type="search" placeholder="Search pieces, stones, piece no."></div>
 <div class="frow"><span class="flab">Type</span><div class="fopts" id="chips" role="group" aria-label="Filter by type"></div></div>
 <button type="button" id="ftog" class="ftog" aria-expanded="false" aria-controls="fmore">More filters <span id="fnum"></span></button>
 <div id="fmore" class="fmore">
@@ -366,7 +356,7 @@ function draw(){
   var wa="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent(msg);
   var em="mailto:"+EMAIL+"?subject="+encodeURIComponent("Inquiry: "+i.name+" ("+i.id+")")+"&body="+encodeURIComponent(msg);
   return '<article class="card'+(sold?" sold":"")+'"><div class="pic"'+(i.img?' data-k="'+ITEMS.indexOf(i)+'" tabindex="0" role="button" aria-label="Enlarge photo of '+esc(i.name).replace(/"/g,"&quot;")+'"':"")+'>'+(i.img?'<img src="'+i.img+'" alt="'+esc(i.name)+'" width="'+(i.w||700)+'" height="'+(i.h||933)+'" loading="lazy" decoding="async">':gem)+(st!=="Available"?'<span class="badge '+(sold?"sold":"hold")+'">'+esc(st)+'</span>':"")+'</div>'+
-   '<div class="lab">'+esc(i.cat+(i.style?" · "+i.style:""))+'</div><h3 class="name" data-id="'+esc(i.id||"")+'">'+esc(i.name)+'</h3>'+
+   '<div class="lab">'+esc(i.cat+(i.style?" · "+i.style:""))+'</div><h3 class="name">'+esc(i.name)+'</h3>'+
    (generic?"":'<p class="desc">'+esc(i.desc)+'</p>')+'<p class="meta"><b>'+esc(i.id||"")+'</b>'+((i.metal||[]).length?' · '+esc(i.metal.join(" & ")):"")+((i.stones||[]).length?' · '+esc(i.stones.join(", ")):"")+'</p>'+
    '<div class="btns"><a class="wa" href="'+wa+'" target="_blank" rel="noopener">WhatsApp</a><a class="em" href="'+em+'">Email</a></div></article>'}).join("");
  $("more").hidden=total<=shown;$("more").textContent="Show more ("+(total-shown)+" more)";
@@ -378,10 +368,7 @@ function setCount(n){var k=(style!=="All")+(metal!=="All")+(stone!=="All");$("fn
 $("ftog").onclick=function(){var o=document.querySelector(".fbar").classList.toggle("open");this.setAttribute("aria-expanded",o);this.firstChild.textContent=o?"Fewer filters ":"More filters "};
 $("fab").href="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent("Hi, I'd like to arrange a time to view some pieces.");
 $("clear").onclick=function(){sel=style=metal=stone="All";q="";$("q").value="";shown=PAGE;chips();schips();draw()};
-/* Photo size: Large or Compact, remembered on this device */
-function setView(v){var c=v==="compact";document.body.classList.toggle("compact",c);$("vCompact").setAttribute("aria-pressed",c);$("vLarge").setAttribute("aria-pressed",!c);try{localStorage.setItem("view",v)}catch(e){}}
-$("vLarge").onclick=function(){setView("large")};$("vCompact").onclick=function(){setView("compact")};
-try{if(localStorage.getItem("view")==="compact")setView("compact")}catch(e){}
+
 var LBK=0,LBP=0,VIS=[];
 function photos(i){return i.imgs&&i.imgs.length?i.imgs:(i.img?[i.img]:[])}
 function lbShow(){var it=ITEMS[LBK],ph=photos(it);$("lbi").src=ph[LBP];$("lbi").alt=it.name;
