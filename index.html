@@ -36,7 +36,7 @@ header{border-bottom:1px solid var(--line);margin:0 24px}
 nav{display:flex;align-items:center;gap:28px}
 nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em;text-transform:uppercase}
 #tg{background:none;border:1px solid var(--line);color:var(--text);padding:10px 18px;font-size:.7rem;letter-spacing:.1em;cursor:pointer}
-.hero{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center;padding:56px 0 72px}
+.hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:40px;align-items:center;padding:56px 0 72px}
 .rule{width:112px;height:1px;background:var(--accent);margin-bottom:12px}
 .hero .mono{margin:22px 0 54px;line-height:0}
 .flogo svg{width:92px;height:auto;display:block;margin:0 auto 12px}
@@ -80,7 +80,7 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
 .ftop{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
 .ftop input{flex:1 1 260px;border:0;border-bottom:1px solid var(--line);background:none;color:var(--text);padding:8px 2px;font:inherit;font-size:.95rem;outline:none}
 .ftop input:focus{border-color:var(--accent)}
-.frow{display:grid;grid-template-columns:86px 1fr;align-items:center;gap:10px}
+.frow{display:grid;grid-template-columns:86px minmax(0,1fr);align-items:center;gap:10px}
 .frow[hidden]{display:none}
 .flab{font-size:.62rem;letter-spacing:.25em;text-transform:uppercase;color:var(--muted)}
 .fopts{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
@@ -92,7 +92,12 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
 .fbar select{border:1px solid var(--line);border-radius:999px;padding:6px 12px;letter-spacing:.02em;text-transform:none;font-size:.78rem}
 .fcount{display:flex;justify-content:space-between;align-items:center;font-size:.8rem;color:var(--muted);border-top:1px solid var(--line);padding-top:10px}
 #clear{background:none;border:0;color:var(--text);text-decoration:underline;text-underline-offset:3px;cursor:pointer;font:inherit;font-size:.8rem}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:28px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(250px,100%),1fr));gap:28px}
+.card,.card>*,.pic{min-width:0}
+.pic img{max-width:100%;display:block}
+.name,.meta{overflow-wrap:anywhere}
+html,body{max-width:100%;overflow-x:clip}
+.fbar{min-width:0;max-width:100%}
 .card{display:flex;flex-direction:column;gap:6px}
 .card .lab{font-size:.62rem;margin-top:6px}
 .pic{aspect-ratio:3/4;border:1px solid var(--line);background:linear-gradient(160deg,var(--ph1),var(--ph2));display:flex;align-items:center;justify-content:center}
@@ -109,7 +114,7 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
 .em{color:var(--text)}
 .none{color:var(--muted);padding:30px 0}
 #vph,#fnum,#fwan,.vwa,#fph{white-space:nowrap}
-@media(max-width:760px){.frow{grid-template-columns:1fr;gap:6px}.fopts{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;margin-right:-20px;padding-right:20px}.fopts::-webkit-scrollbar{display:none}.fbar{padding:14px 16px}}
+@media(max-width:760px){.frow{grid-template-columns:minmax(0,1fr);gap:6px}.fopts{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}.fopts::-webkit-scrollbar{display:none}.fbar{padding:14px 16px}}
 
 .ftog,.fmore{display:contents}
 .ftog{display:none}
@@ -134,7 +139,7 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
  #fcnt:not(:empty){background:var(--btn);color:var(--btnt);border-radius:999px;padding:1px 8px;font-size:.72rem}
  .fmore{display:none}
  .fbar.open .fmore{display:flex;flex-direction:column;gap:12px}
- .grid{grid-template-columns:repeat(2,1fr);gap:18px 12px}
+ .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}
  .card .desc{display:none}
  .name{font-size:1.15rem}
  .meta{font-size:.74rem}
@@ -168,7 +173,7 @@ nav a{color:var(--text);text-decoration:none;font-size:.7rem;letter-spacing:.3em
 footer{border-top:1px solid var(--line);margin:0 24px;padding:40px 0;text-align:center}
 footer .brand{font-size:1.6rem;margin-bottom:10px}
 footer a{color:var(--text)}
-@media(max-width:760px){.hero{grid-template-columns:1fr;padding:36px 0}.hero .mono{margin-bottom:36px}.tools input{flex:1 1 100%}nav{gap:18px}.brand{font-size:1.7rem}}
+@media(max-width:760px){.hero{grid-template-columns:minmax(0,1fr);padding:36px 0}.hero .mono{margin-bottom:36px}.tools input{flex:1 1 100%}nav{gap:18px}.brand{font-size:1.7rem}}
 </style>
 </head>
 <body>
